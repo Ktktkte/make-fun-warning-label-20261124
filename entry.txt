@@ -1,0 +1,1 @@
+WARNING: Human may say 'I'm fine' while visibly not fine. Refer to manual; manual also says 'I'm fine'.
